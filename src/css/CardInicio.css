@@ -1,0 +1,14 @@
+.card{
+
+    background-clip: initial;
+
+  
+    object-fit:scale-down;
+    scrollbar-base-color: aliceblue;
+    scroll-margin-block-start:unset;
+  background-clip: padding-box;
+  background: radial-gradient(ellipse at top, #f0f3f1, transparent),
+            radial-gradient(ellipse at bottom, #f2f3f2, transparent);
+            color: #041b0c;
+
+}
