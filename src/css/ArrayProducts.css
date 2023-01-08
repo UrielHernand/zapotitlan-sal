@@ -1,0 +1,48 @@
+.slider-container {
+
+height: 100%;
+
+
+
+  }
+  .slider-container1 {
+
+   display: flex;
+   justify-content: center;
+    
+    
+    
+      }
+
+.paper{
+
+display: inline-table;
+height: 20%;
+justify-content: center;
+margin: 2%;
+
+
+
+    
+  }
+  .CardMedia {
+  display: flex;
+  justify-content: center;
+ 
+   position:-webkit-sticky;
+
+
+  }
+  .CardMedia:hover{
+ 
+    display: flex;
+   
+    position:-webkit-sticky;
+   }
+ 
+  .CardContent{
+
+    height: 20%;
+
+
+  }

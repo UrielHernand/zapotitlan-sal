@@ -11,7 +11,7 @@
     const [open, setOpen] = useState(false);
     return (
       <>
-      <h2>Redes Sociales Y Contactans</h2>
+      <h2>Redes Sociales Y Contacto</h2>
       <Paper elevation={18} style={{width:'80%', marginLeft:'10%',paddingTop:'5%', paddingBottom:'5%'}}>
       <div style={{ display:'flex', justifyContent:'space-evenly' , width:'100%'}}>
 
@@ -27,6 +27,8 @@
 
     
         </div>
+
+      
         </Paper>
       <p style={{fontStyle: 'italic'}}>🖇Dev2023🖇</p>
       </>

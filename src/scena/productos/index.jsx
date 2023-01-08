@@ -1,7 +1,12 @@
 import React from 'react'
+import ProductosInfo from '../../components/ProductosInfo'
 
 export default function Productos() {
   return (
-    <div>Productos holaaaaa</div>
+    <div>
+    <ProductosInfo></ProductosInfo>
+
+
+    </div>
   )
 }
